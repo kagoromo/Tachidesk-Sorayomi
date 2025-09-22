@@ -70,7 +70,6 @@ dev_dependencies:
   json_serializable: ^6.5.4
   lints: ^5.0.0
   riverpod_generator: ^2.0.0
-  json_serializable: ^6.7.1 # or latest compatible version
   analyzer: ">=5.13.0 <7.0.0"
 
 flutter:
